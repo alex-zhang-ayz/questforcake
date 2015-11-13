@@ -1,0 +1,4 @@
+<color=orange>There it is!</color>
+Be careful, its main goal is to <color=red>grow big enough to eat the planet.</color>
+<color=cyan>It will charge at you every once in a while and shrink you.</color>
+<color=cyan>Use whatever you can to get rid of it!</color>

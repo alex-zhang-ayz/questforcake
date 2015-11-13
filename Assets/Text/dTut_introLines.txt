@@ -1,0 +1,3 @@
+Hey you. You wanted to <color=red>grow big</color> to eat that cake right? 
+Wel why don't you try on those goggles over there and I'll see what I can do.
+<color=blue>Now, move on over to those goggles using the keys shown.</color>

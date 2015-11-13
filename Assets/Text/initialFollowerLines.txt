@@ -1,0 +1,4 @@
+Looks like this little guy wants to <color=silver>follow you around</color>.
+<color=blue>Shrinking him doesn't seem to work.</color> He seems to grow instead and <color=red>take from your volume.</color>
+<color=blue>Maybe that will be useful later.</color>
+Be careful though, the effects seem <color=red>temporary for your little follower.</color>

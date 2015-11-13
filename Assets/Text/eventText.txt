@@ -1,0 +1,8 @@
+firstTB:When objects turn <color=red>red</color>, it means that you are not big enough to shrink it down. 
+firstLck:Objects that turn <color=silver>grey</color> require something to be unlocked, try talking to <color=red>(clicking)</color> things with <color=yellow>exclamation marks</color> in the area to find out what.
+firstShk:Shrinking objects will store their volume in <color=cyan>the bar on the top right</color>. Once the bar gets filled, you grow, allowing you to <color=cyan>shrink larger objects.</color> Your current size (volume) is shown on the top middle.
+barCollide:Looks like you aren't large enough to get through these bars. Maybe there are <color=cyan>smaller things</color> in the area that you can shrink so that you can grow.
+tiny:You shrank yourself to the smallest possible size. Good luck pipsqueak.
+firstPen:Oh no! It looks like <color=red>shrinking larger objects takes some of your volume away</color> better avoid doing that.
+area2:Let's try out the <color=red>shrink ray</color> function of those goggles. <color=blue>Right click objects to use the shrink ray.</color>
+area3:Sweet you're bigger now, now let's see what that big guy wants.

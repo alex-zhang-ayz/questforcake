@@ -1,0 +1,1 @@
+<color=red>[Quest Failed]</color> <color=green>Remove an object to restart the quest.</color>

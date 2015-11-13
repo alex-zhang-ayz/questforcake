@@ -1,0 +1,1 @@
+<color=blue>[Quest Received]</color> Get rid of all the bunnies, removing them from <color=red>smallest to largest</color>.

@@ -1,0 +1,2 @@
+<color=blue>[Quest Received]</color> Move the big guy out of the way. 
+<color=orange>Maybe something in the area will help.</color>

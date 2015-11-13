@@ -1,0 +1,6 @@
+Woah. Are you alright?
+Seems like the goggles <color=red>overloaded</color> or something.
+You seem to have <color=red>shrunk a bit</color> and it looks like it <color=red>doesn't just tell you the volume straight up anymore.</color>
+That's alright though, <color=blue>calculations are easy right?</color>
+Here's some words of caution, <color=red>I wouldn't try to shrink objects larger than you, there's no telling what will happen.</color>
+Well, good luck!

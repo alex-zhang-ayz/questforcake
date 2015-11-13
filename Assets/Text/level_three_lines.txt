@@ -1,0 +1,2 @@
+<color=cyan>There seems to be some sound coming out of that cave. Maybe we should check it out.</color>
+<color=orange>Make sure to check your volume, you might not be able to get in due to your size.</color>

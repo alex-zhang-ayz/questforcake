@@ -1,0 +1,3 @@
+<color=blue>[Quest Received]</color> Rescue the bunnies! 
+<color=orange>Remove the objects</color><color=cyan> from smallest to largest.</color>
+<color=red>This quest cannot be restarted</color>

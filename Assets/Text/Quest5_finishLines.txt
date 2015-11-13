@@ -1,0 +1,2 @@
+<color=green>[Quest Finished]</color> You saved the bunnies!
+Reward - You have recieved one <color=blue>volume up</color> capsule.

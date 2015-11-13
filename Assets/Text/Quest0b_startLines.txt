@@ -1,0 +1,1 @@
+<color=blue>[Quest Received]</color> Remove only the smallest and largest objects, by volume.

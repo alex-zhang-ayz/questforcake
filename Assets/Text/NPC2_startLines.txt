@@ -1,0 +1,5 @@
+<color=green>Slime-NPC:</color> These annoying <color=red>bunnies</color> keep eating my carrots!
+<color=green>Slime-NPC:</color> Please help me get rid of them. I will let you have these carrots if you do. 
+<color=green>Slime-NPC:</color> You will need to remove <color=red>all</color> of them!
+<color=green>Slime-NPC:</color> Make sure you remove them starting from the <color=red>smallest to the largest</color>, otherwise they will <color=red>run away</color>.
+<color=green>Slime-NPC:</color> [squish-squish]

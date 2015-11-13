@@ -1,0 +1,1 @@
+<color=red>[Quest Failed]</color> Click the quest-giver again to restart.

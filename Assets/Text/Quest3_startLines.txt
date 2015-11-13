@@ -1,0 +1,2 @@
+<color=blue>[Quest Received]</color> Increase the water level of the well by <color=cyan>going into it</color>.
+The water level will increase in <color=silver>height</color> when you go in. Be careful though, <color=red>overfilling it</color> will cause you to <color=red>fail the quest.</color>

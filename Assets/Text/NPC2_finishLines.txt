@@ -1,0 +1,3 @@
+<color=green>Slime-NPC:</color> Thank you so much!
+<color=green>Slime-NPC:</color> Help yourself to these carrots.
+<color=green>Slime-NPC:</color> [squish-squish]

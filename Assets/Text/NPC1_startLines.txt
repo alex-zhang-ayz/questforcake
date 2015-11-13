@@ -1,0 +1,2 @@
+<color=lime>Slime-NPC:</color> Hello there! If you <color=red>clean up</color> that <color=silver>garbage</color>, you can have my box of stuff!
+<color=lime>Slime-NPC:</color> [squish-squish]

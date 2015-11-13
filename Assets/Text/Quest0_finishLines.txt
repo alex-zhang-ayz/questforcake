@@ -1,0 +1,1 @@
+<color=green>[Quest Finished]</color> Reward - You have recieved one <color=blue>volume up</color> capsule AND the shiny ball has been unlocked!

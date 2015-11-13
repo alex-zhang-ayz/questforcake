@@ -1,0 +1,3 @@
+<color=blue>[Quest Received]</color> Balance the scales.
+<color=white>Remove objects to balance the scales</color>
+<color=white>Removing all the objects will fail the quest (if you need to restart, clear all the objects)</color>

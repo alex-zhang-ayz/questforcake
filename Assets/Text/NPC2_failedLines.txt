@@ -1,0 +1,2 @@
+<color=green>Slime-NPC:</color> Looks like you missed a few, try again next time.
+<color=green>Slime-NPC:</color> [squish-squish]
